@@ -48,7 +48,7 @@
 
 
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SharkyBytes&theme=react">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SharkyBytes&theme=react&cache_seconds=3600">
 
 
 
